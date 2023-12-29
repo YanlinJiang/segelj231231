@@ -4,4 +4,3 @@ numpy
 PIL
 altair
 scikit-image
-Pillow

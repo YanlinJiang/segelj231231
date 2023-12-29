@@ -1,6 +1,2 @@
 opencv-python
-pandas
-numpy
-PIL
-altair
 scikit-image
